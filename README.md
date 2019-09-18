@@ -36,11 +36,3 @@ Untuk menyelesaikan modul Extended Application anda harus submit aplikasi lanjut
 	* Upcoming Reminder atau Now Playing Reminder
 3. Menuju detail dari notifikasi nowplaying / upcoming
 
-# Update
-Bagi teman-teman yang masih mengikuti kelas dari dicoding, [Kelas Menjadi Android Developer Expert](https://www.dicoding.com/academies/14 "klik untuk melihat kelas"). Silahkan gunakan source ini sebagai bahan referensi, tapi **TIDAK** untuk disalin secara utuh tanpa tau cara implementasinya.
-
-Ayolah kawan.. Kalian sudah bayar mahal untuk ikut kelas ini, kalian harus dapat ilmunya. Percuma kalian dapat sertifikat dari dicoding kalau di kemudian hari kalian tidak mendapatkan ilmunya dari sini.
-
-Semangat kawan.. Perjalanan masih panjang. Lakukan yang terbaik yang kalian bisa. Silahkan tanya saya jika ada yang kurang dimengerti. Kalau saya bisa bantu, pasti saya dampingi.
-
-Mari kita maju bersama-sama..
