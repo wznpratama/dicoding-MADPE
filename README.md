@@ -2,7 +2,7 @@
 The second, forth, and last (fifth) final project from dicoding.com online course. Create the searching movie apps with Ui/Ux from the catalogue using api.themoviedb.org.
 
 ## Penampakan 
-<img src="https://github.com/omrobbie/Catalogue-Movie-Ui-Ux/blob/master/screenshot/Screenshot_1516765430.png" width="256">&nbsp;&nbsp;<img src="https://github.com/omrobbie/Catalogue-Movie-Ui-Ux/blob/master/screenshot/Screenshot_1516765440.png" width="256">&nbsp;&nbsp;<img src="https://github.com/omrobbie/Catalogue-Movie-Ui-Ux/blob/master/screenshot/Screenshot_1516765505.png" width="256">
+<img src="https://github.com/omrobbie/Catalogue-Movie-Ui-Ux/blob/master/screenshot/Screenshot_1516765430.png" width="256">&nbsp;&nbsp;<img src="https://github.com/omrobbie/Catalogue-Movie-Ui-Ux/blob/master/screenshot/Screenshot_1516765440.png" width="256">&nbsp;&nbsp;<img 
 
 ## Submission 2
 Untuk menyelesaikan modul Ui Ux anda harus submit aplikasi lanjutan dari modul project Fundamentals yaitu Catalogue Movie. Dengan memanfaatkan materi Ui Ux , aplikasi Catalogue Movie ditambah beberapa fitur baru.
